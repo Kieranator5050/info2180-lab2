@@ -1,19 +1,19 @@
 .kieranPic {
   border-radius: 70%;
-  height: 10%;
-  width: 10%;
+  height: 20%;
+  width: 20%;
 }
 
 .picSize1 {
   float: right;
-  height: 8%;
-  width: 8%;
+  height: 15%;
+  width: 15%;
 }
 
 .picSize2 {
   float: left;
-  height: 8%;
-  width: 8%;
+  height: 15%;
+  width: 15%;
 }
 
 .lrclear {
