@@ -3,3 +3,19 @@
   height: 10%;
   width: 10%;
 }
+
+.picSize1 {
+  float: right;
+  height: 8%;
+  width: 8%;
+}
+
+.picSize2 {
+  float: left;
+  height: 8%;
+  width: 8%;
+}
+
+.lrclear {
+  clear: both;
+}
