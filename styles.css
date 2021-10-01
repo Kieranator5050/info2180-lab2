@@ -14,7 +14,7 @@ a{
   display: grid;
   grid-template-columns: 50% 40%;
   column-gap: 10%;
-  grid-template-rows: 25% 75% 10%;
+  grid-template-rows: 25% 78% 10%;
 }
 
 .grid-headerItem {
@@ -32,7 +32,7 @@ a{
 .grid-mainItem {
   grid-column: 1;
   grid-row: 2;
-  padding: 10% 10% 10% 10%;
+  padding: 10% 0 10% 10%;
 }
 
 .grid-sidebar {
@@ -40,7 +40,7 @@ a{
   grid-column: 2;
   grid-row-end: span 2;
   grid-row: 2;
-  padding: 5% 5% 5% 5%;
+  padding: 15% 8% 15% 8%;
 }
 
 .grid-footer {
